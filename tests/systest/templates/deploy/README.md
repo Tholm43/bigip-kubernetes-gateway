@@ -1,1 +1,0 @@
-This folder is used to place program deployment/deletion system test yaml files.
